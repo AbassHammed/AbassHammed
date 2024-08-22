@@ -1,4 +1,4 @@
-<h2 align="center">Hello there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<image src="./images/JavaScript.svg" width="40"> <image src="./images/TypeScript.svg" width="40"> <image src="./images/React.svg" width="40"> <image src="./images/Flutter.svg" width="40"> <image src="./images/Dart.svg" width="40"> <image src="./images/python.svg" width="40"> <image src="./images/Django.svg" width="40"> <image src="./images/Rust.svg" width="40"> <image src="./images/c.svg" width="40">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbassHammed&label=Profile%20views&color=0e75b6&style=flat" alt="AbassHammed" />
