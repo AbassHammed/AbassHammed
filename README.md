@@ -12,7 +12,7 @@
 <!-- Profile Views -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ruth-ikegah&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+  <img src="https://komarev.com/ghpvc/?username=AbassHammed&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <!-- Profile Views: END -->
