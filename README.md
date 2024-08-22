@@ -13,7 +13,7 @@
 
 
 
-<h2 align"center">What I am listening to on Spotify now 🎧</h2>
+<h2 align="center">What I am listening to on Spotify now 🎧</h2>
 
 
 <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vwfmufesskihqx2qshno4waj3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"></div>
