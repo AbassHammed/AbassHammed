@@ -3,7 +3,7 @@
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Ruth+Ikegah.;I'm+a+Backend+Developer,+technical+writer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Hammed+Abass.;I'm+a+student+at+UPJV.;"></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -21,8 +21,7 @@
 
 <h2>Connect with me</h3>
     <p>
-        <a href="https://www.linkedin.com/in/abasshammed/"><img src="https://img.shields.io/badge/-Ruth%20Ikegah%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/IkegahRuth/"><img src="https://img.shields.io/badge/-IkegahRuth-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+        <a href="https://www.linkedin.com/in/abasshammed/"><img src="https://img.shields.io/badge/-Hammed%20Abass%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/abasshammed" alt="LinkedIn Badge"></a> 
         <a href="mailto:abasshammedola@gmail.com"><img src="https://img.shields.io/badge/-Hammed%20Abass-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:abasshammedola@gmail.com" alt="Gmail Badge"></a>
    </p>
    
@@ -37,18 +36,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruth-ikegah&show_icons=true&locale=en&theme=tokyonight" alt="Ruth-ikegah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruth-ikegah&&theme=tokyonight" alt="Ruth-ikegah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbassHammed&&theme=tokyonight" alt="AbassHammed" /></p>
 
 
 <!-- Github Stats: END -->
-
-
-**You can check out my blog here**
-- [My blog](https://cakebaby.dev/)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ruth-ikegah&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
 ### What I am listening to on Spotify now 🎧
 
