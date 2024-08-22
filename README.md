@@ -20,4 +20,4 @@
 
 ### What I am listening to on Spotify now 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vwfmufesskihqx2qshno4waj3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
