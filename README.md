@@ -1,10 +1,5 @@
 <h2 align="center">Hello there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Hammed+Abass.;I'm+a+student+at+UPJV.;"></a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbassHammed&label=Profile%20views&color=0e75b6&style=flat" alt="AbassHammed" />
 </p>
@@ -20,4 +15,5 @@
 
 ### What I am listening to on Spotify now 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vwfmufesskihqx2qshno4waj3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vwfmufesskihqx2qshno4waj3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"></div>
