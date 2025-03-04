@@ -51,6 +51,3 @@
         <a href="mailto:abasshammedola@gmail.com"><img src="https://img.shields.io/badge/-Hammed%20Abass-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:abasshammedola@gmail.com" alt="Gmail Badge"></a>
 </p>
 
-<h2 align="center">What I am listening to on Spotify now 🎧</h2>
-
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vwfmufesskihqx2qshno4waj3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"></div>
